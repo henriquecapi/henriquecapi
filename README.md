@@ -8,25 +8,26 @@
 
 # Olá, eu sou Henrique Capibaribe 👋
 
-- 🔭 Atualmente trabalho com desenvolvimento web
-- 🌱 Estou aprendendo novas tecnologias
+- 🔭 Atualmente estudando 
+- 🌱 Estou aprendendo desenvolvimento web com Python e SDD - Spec Driven Development (AI) 
 - 📫 Como me encontrar: [LinkedIn](www.linkedin.com/in/josé-henrique-barbosa-capibaribe-50829248)
-- ⚡ Curiosidade: Amo desafios de programação
+- ⚡ Curiosidade: Consigo entender superficialmente e acompanhar um desenvolvimento assistido por IA
+  em diversas linguaguens até crio muitos projetos em outras linguagens programação mas resolvi focar em Python.
 
 # Bem-vindo ao meu perfil do GitHub!
 
-Desenvolvedor com experiência em .NET e C#, focado em desenvolvimento de APIs e testes unitários.
-Possui habilidades em MongoDB e Docker, além de experiência com Linux e GitHub.
-Recentemente, obteve certificações em testes unitários com C# e Docker, demonstrando um foco contínuo
+Desenvolvedor com experiência em Python, focado em desenvolvimento de APIs e testes unitários.
+Possui habilidades em Supabase e Docker, um pouco de experiência com AWS e DevOps.
+Recentemente, obteve certificações em testes unitários com Python e Docker, demonstrando um foco contínuo
 em aprimorar suas habilidades técnicas.
 
 ## Principais Habilidades
-- .NET
-- C#
-- MongoDB
+- Python
+- Supabase
 - Docker
-- Linux
 - GitHub
+- SDD - Spec Driven Development (AI)
+- AWS
 
 ## Ultimas Conquistas/Certificações:
 - [Implementando Validações de Testes Unitários com C#](https://www.dio.me/certificate/Q860ZKCM)
