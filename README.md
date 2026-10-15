@@ -41,35 +41,29 @@ Currently retired and seeking new professional opportunities where I can contrib
 
 ## Languages
 
-- Java
+- Python
+- Flutter
 - JavaScript
 - TypeScript
-- PHP
-- SQL
 
 ## Front-end
 
-- React
-- Next.js
-- HTML5
-- CSS3
-- Bootstrap
+- Fllutter
+- JavaScript
+- HTML
+- CSS
 
 ## Back-end
 
-- Spring Boot
-- Node.js
-- Express
-- REST APIs
-- JWT
-- OAuth2
+- Python
+- API Django
 
 ## Databases
 
 - PostgreSQL
 - MySQL
-- SQL Server
-- SQLite
+- Supabase
+- MongoDB
 
 ## AI & LLM
 
@@ -81,15 +75,15 @@ Currently retired and seeking new professional opportunities where I can contrib
 - Multi-Agent Systems
 - RAG
 - MCP
-- Function Calling
 
 ## Cloud & DevOps
 
+- AWS
 - Docker
-- Git
 - GitHub
 - GitHub Actions
 - CI/CD
+- AZURE
 
 ## Software Architecture
 
@@ -176,10 +170,14 @@ Development of complete web applications.
 
 Stack:
 
+- Python
+- Flutter
+- Next.js
 - React
 - Node.js
-- Spring Boot
 - PostgreSQL
+- Solidit
+- Rustc
 
 ---
 
@@ -227,7 +225,7 @@ Stack:
 
 > Enable GitHub Readme Stats after publishing.
 
-```md
+```
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriquecapi&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecapi&layout=compact)
