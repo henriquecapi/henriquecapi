@@ -225,12 +225,9 @@ Stack:
 
 > Enable GitHub Readme Stats after publishing.
 
-```md
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriquecapi&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecapi&layout=compact)
-
-```
 
 ---
 
